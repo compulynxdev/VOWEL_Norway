@@ -2,7 +2,7 @@
 
 <img src="./assets/vowel-logo.png" alt="CompuLynx Logo" width="420"/>
 
-# 🛂 VOWEL VMS
+#  VOWEL VMS
 ### Visitors' Official Welcome Management System
 
 **A digital front desk. Zero paper. Total visibility.**
@@ -16,7 +16,7 @@
 
 ---
 
-## 📖 About
+##  About
 
 **VOWEL** (Visitors' Official Welcome) is a digital visitor management system by **CompuLynx**. It replaces traditional logbooks with a fast, secure, and paperless front-desk experience.
 
@@ -24,7 +24,7 @@ Deployed across commercial and residential premises in 🇰🇪 **Kenya**, 🇺�
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 | | Feature | Description |
 |---|---|---|
@@ -36,7 +36,7 @@ Deployed across commercial and residential premises in 🇰🇪 **Kenya**, 🇺�
 
 ---
 
-## 🏢 Where It's Used
+##  Where It's Used
 
 <div align="center">
 
@@ -48,13 +48,13 @@ Deployed across commercial and residential premises in 🇰🇪 **Kenya**, 🇺�
 
 ---
 
-## 🚀 Why VOWEL?
+##  Why VOWEL?
 
 > Traditional logbooks are slow, insecure, and impossible to search. VOWEL turns your reception into a smart, secure checkpoint — cutting queues, protecting visitor data, and giving building managers real-time insight into foot traffic.
 
 ---
 
-## 🛠️ Tech at a Glance
+##  Tech at a Glance
 
 <div align="center">
 
