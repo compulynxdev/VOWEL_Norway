@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/compulynx-logo.png" alt="CompuLynx Logo" width="420"/>
+<img src="./compulynx-logo.png" alt="CompuLynx Logo" width="420"/>
 
 #  VOWEL VMS
 ### Visitors' Official Welcome Management System
