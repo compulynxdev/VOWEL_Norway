@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/vowel-logo.png" alt="CompuLynx Logo" width="420"/>
+<img src="./assets/compulynx-logo.png" alt="CompuLynx Logo" width="420"/>
 
 #  VOWEL VMS
 ### Visitors' Official Welcome Management System
@@ -10,7 +10,7 @@
 [![Made by CompuLynx](https://img.shields.io/badge/Made%20by-CompuLynx-1a2456?style=for-the-badge)](https://compulynx.com)
 [![Status](https://img.shields.io/badge/Status-Active-f4791f?style=for-the-badge)]()
 [![Regions](https://img.shields.io/badge/Deployed-KE%20%7C%20UG%20%7C%20TZ-1a2456?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-Proprietary-f4791f?style=for-the-badge)]()
+
 
 </div>
 
